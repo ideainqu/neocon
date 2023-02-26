@@ -1,0 +1,9 @@
+git config --global user.email "ideainqempas@gmail.com" 
+git config --global user.name "neocon"
+git config --global user.name "ideainqu"
+
++Hi! I am beginner in coding developer but managing in IT business for long time.
+And now I am trying to rebuild my old job in neoconsoft.com.
+
+Beginner salutation!
+It's just trying to let you know I am still alive and I will be back to your front as my old promise(Keep attention! naver!)
