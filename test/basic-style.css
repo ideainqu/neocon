@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vh;
+    height: 100vh;
+    margin: 0;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #181818;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.color1 {
+    background-color: aliceblue;
+}
+
+.color2 {
+    background-color:antiquewhite;
+}
+
+.color3 {
+    background-color:aqua;
+}
+
+.color4 {
+    background-color:aquamarine;
+}
+
+.color5 {
+    background-color:blueviolet;
+}

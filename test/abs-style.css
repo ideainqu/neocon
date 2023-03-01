@@ -1,0 +1,86 @@
+       nav {
+          background-color: rgb(0, 0, 0);
+          width: auto;
+          height: 88px;
+          display: flex;
+          flex-direction: row;
+          justify-content:space-around;
+       }
+       
+       nav> p> a {
+         letter-spacing: 0.115rem;
+         font-weight: 500;
+         color:aliceblue;
+         text-decoration: none;
+       }
+
+       header {
+          background-color: rgb(218, 219, 241);
+          font-size: 60px;
+          width: auto;
+          height: 350px;
+          padding-top: 40px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+       }
+
+       main {
+          background-color: rgb(255, 255, 255);
+          width: auto;
+          height: 900px;
+       }
+
+       div.flex_1 {
+          display: flex;
+          float: left;
+          flex-direction: column;
+          justify-content: space-between;
+      }
+
+       div.flex_1> a {
+         letter-spacing: 0.115rem;
+         font-weight: 500;
+         color:blue;
+         text-decoration: none;
+       }
+
+       div.flex_2> a {
+         letter-spacing: 0.115rem;
+         font-weight: 500;
+         color:blue;
+         text-decoration: none;
+       }
+
+       div.flex_2 {
+          display: flex;
+          float: right;
+          flex-direction: column; 
+          justify-content: space-between;
+       }
+       
+       img {
+         object-fit: contain;
+         width: 60px;
+         height: 60px;
+         vertical-align: middle;
+      }
+
+       footer {
+         background-color: rgb(0, 0, 0);
+         color: rgb(255, 255, 255);
+         height: 400px;
+       }
+       
+       div.flex {
+         display: flex;
+         flex-direction: row;
+         justify-content: space-around;
+      }
+
+       div.flex a{
+         letter-spacing: 0.115rem;
+         font-weight: 500;
+         color:aliceblue;
+         text-decoration: none;
+       }
